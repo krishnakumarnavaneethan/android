@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/krishna/.android/build-cache/e0dca9969da8d54489278e26ba1ec002d2129668/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/open_on_phone_animation.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/open_on_phone_animation.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_negative_bg.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/accept_deny_dialog_negative_bg.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/ic_cc_checkmark.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/ic_cc_checkmark.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation_animation.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/preference_wrapped_icon.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/preference_wrapped_icon.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/ic_cc_clear.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/ic_cc_clear.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/ic_expand_more_white_22.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/ic_expand_more_white_22.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/generic_confirmation.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/open_on_phone.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/open_on_phone.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/res/merged/debug/drawable-v21/accept_deny_dialog_positive_bg.xml",
+        "source": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/drawable-v21/accept_deny_dialog_positive_bg.xml"
+    }
+]

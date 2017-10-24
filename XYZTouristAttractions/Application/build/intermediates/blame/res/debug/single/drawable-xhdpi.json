@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_map.png",
+        "source": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/src/main/res/drawable-xhdpi/ic_action_map.png"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_stat_maps_pin_drop.png",
+        "source": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/src/main/res/drawable-xhdpi/ic_stat_maps_pin_drop.png"
+    }
+]

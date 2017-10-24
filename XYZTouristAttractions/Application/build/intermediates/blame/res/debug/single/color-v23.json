@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/krishna/.android/build-cache/4c45e142e933f858a20da490da109f308ea39812/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/krishna/.android/build-cache/c4a5ddb82264049b4f0f1ebb1ec954bae219df6a/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

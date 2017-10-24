@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/krishna/AndroidStudioProjects/XYZTouristAttractions/Wearable/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w160dp-v13/values-w160dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/values-w160dp-v13/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 222,
+                        "endColumn": 46,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 51,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/values-w160dp-v13/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 269,
+                        "endColumn": 47,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 53,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/values-w160dp-v13/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 317,
+                        "endColumn": 49,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 51,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "/home/krishna/.android/build-cache/821b84bf349c01d575b09210894b7fe197a95e5c/output/res/values-w160dp-v13/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 367,
+                        "endColumn": 47,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]
